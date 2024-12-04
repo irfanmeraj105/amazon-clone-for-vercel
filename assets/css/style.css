@@ -17,7 +17,7 @@
 }
 
 .logo {
-    background-image: url('amazon.png');
+    background-image: url('/assets/images/amazon.png');
     background-size: cover;
     height: 50px;
     width: 165px;
@@ -169,7 +169,7 @@ a {
 /* herosection */
 
 .herosection {
-    background-image: url('hero.png');
+    background-image: url('/assets/images/hero.png');
     height: 450px;
     background-size: cover;
 }
@@ -224,7 +224,7 @@ a {
 
 .backtotop {
     display: flex;
-    height: 35;
+    height: 35px;
     font-size: 1.2rem;
     background-color: #484e4e;
     color: white;
